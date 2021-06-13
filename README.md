@@ -1,2 +1,2 @@
 # blog
-This is just a Blog Setup.
+This is just a Blog setup.
